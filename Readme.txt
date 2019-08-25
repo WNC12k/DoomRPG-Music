@@ -1,0 +1,73 @@
+By connecting this add-on you will replace the standard music in the Doom on my personal selection (instrumental). 
+
+The soundtrack will apply to any WAD and randomly. 
+
+You can also switch the music within the game (select the desired key in the settings). List of soundtracks:
+
+01. Andrew Hulshult - At Doom's Gate;
+02. Andrew Hulshult - The Imp's Song;
+03. Andrew Hulshult - Kitchen Ace;
+04. Andrew Hulshult - On the Hunt;
+05. Andrew Hulshult - Intermission from Doom;
+06. Alice In Chains - Them Bones;
+07. Brutal Doom - Between;
+08. Brutal Doom - In The Dark;
+09. Brutal Doom - Shawn's Got The Shotgun;
+10. Korn - Right Now;
+11. Disturbed - Decadance;
+12. Disturbed - Deceiver;
+13. Disturbed - Divide;
+14. Disturbed - Down With The Sickness;
+15. Disturbed - Hell;
+16. Mastodon - Blood And Thunder;
+17. Mick Gordon - BFG Division;
+18. Mick Gordon - Doom;
+19. Mick Gordon - Harbinger;
+20. Mick Gordon - Rip and Tear;
+21. Nemistade - Running From Evil (DooM II Cover);
+22. Nemistade - Shawn's Got The Shotgun (DooM II Cover);
+23. Nemistade - Into Sandy's City (DooM II Cover);
+24. Korn - Did My Time;
+25. Rammstein - Du Hast;
+26. Rammstein - Feuer Frei!;
+27. Rammstein - Ich Tu Dir Weh;
+28. Rammstein - Ich Will;
+29. Rammstein - Links 2-3-4;
+30. Rammstein - Rammstein;
+31. Rammstein - Asche Zu Asche;
+32. Rob Zombie - Demon Speeding;
+33. Sonic Mayhem - Descent Into Cerberon (Quake 2 OST);
+34. Sonic Mayhem - Quad Machine (Quake 2 OST);
+35. Sonic Mayhem - Operation Overlord (Quake 2 OST);
+36. Periphery - Icarus Lives!;
+37. Static-X - Push It;
+38. Terry Devine-King & Adam Drake - Rip Snorter;
+39. Terry Devine-King & Adam Drake - Vengeance;
+40. Terry Devine-King & Adam Drake - Intrepid;
+41. Periphery - The Bad Thing;
+42. Battletoads - Metal Cover (by GNOM);
+43. Contra Hard Corps - Spirit Of Bushi (Metal Cover);
+44. Black Veil Brides - In the End;
+45. Judas Priest - Hellion-Electric Eye;
+46. Limp Bizkit - Break stuff;
+47. Limp Bizkit - Eat You Alive;
+48. Limp Bizkit - Just Drop Dead;
+49. Limp Bizkit - Pollution;
+50. Limp Bizkit - Why Try;
+51. Megadeth - Symphony Of Destruction;
+52. Metallica - Enter Sandman;
+53. Painkiller - Atrium Complex & Military Base;
+54. Painkiller - Babel;
+55. Painkiller - Catacombs Fight;
+56. Painkiller - Cathedral;
+57. Painkiller - Cemetery;
+58. Painkiller - Docks Fight;
+59. Painkiller - Factory Fight;
+60. Painkiller - Monastery Fight;
+61. Painkiller - Opera & Castle Fight;
+62. Painkiller - Prison & City On Water Fight;
+63. Painkiller - Train Station;
+64. Slayer - Bloodline;
+65. Slipknot - Psychosocial;
+66. Pantera - Walk;
+67. Jared Dines - Djent 2015;
