@@ -74,3 +74,4 @@ You can also switch the music within the game (select the desired key in the set
 68. Disturbed - Open Your Eyes
 69. Disturbed - The Vengeful One
 70. Drowning Pool - Bodies
+71. Aleksandr Pushnoy - My friend is the best at Doom!
